@@ -13,7 +13,7 @@ const Download = () => {
 						Get the full source code on GitHub
 					</p>
 				</div>
-				<button onClick={() => window.open("https://github.com/Lyshka/showcase-weather-app", "_blank")} className={styles.btnPrimary}>
+				<button onClick={() => window.open("https://github.com/Lyshka/weatherApp", "_blank")} className={styles.btnPrimary}>
 					Source Code
 				</button>
 			</div>
